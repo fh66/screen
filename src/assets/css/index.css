@@ -1,0 +1,23 @@
+body,
+p{
+    margin: 0;
+}
+body{
+    /*width: 4739px;*/
+    /*height:1095px;*/
+    /*transform: scale(3.41);*/
+}
+html{
+    background: rgba(0, 9, 33, 1);
+}
+.font20 {
+    font-size: 20px;
+}
+
+.font18 {
+    font-size: 18px;
+}
+
+.font16 {
+    font-size: 16px;
+}
